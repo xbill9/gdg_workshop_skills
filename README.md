@@ -34,7 +34,7 @@ If Cloud Shell asks you to **Authorize**, click **Authorize**. The script create
 
 **If the agent stops mid-build, you're probably on the free plan.** Sign out and sign in with Business account.
 
-The codelab's Gemini API key comes from AI Studio's free tier. The event credits don't cover AI Studio.
+For the codelab's Gemini API key, create it in AI Studio and pick this project when it asks.
 
 ## With an AI agent instead of the script
 

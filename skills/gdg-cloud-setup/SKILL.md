@@ -45,7 +45,7 @@ Run `scripts/link_billing.sh <PROJECT_ID> <BILLING_ACCOUNT_ID>`.
 
 ## Step 4: APIs
 
-Run `scripts/enable_apis.sh enable <PROJECT_ID>` (a minute or two; the list is `references/apis.txt`). The codelab's Gemini API key comes from AI Studio's free tier: the event credits don't cover AI Studio.
+Run `scripts/enable_apis.sh enable <PROJECT_ID>` (a minute or two; the list is `references/apis.txt`). For the codelab's Gemini API key, create it in AI Studio and pick this project when it asks.
 
 ## Step 5: Final check
 

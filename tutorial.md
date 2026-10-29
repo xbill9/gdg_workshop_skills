@@ -45,4 +45,4 @@ Skipping **Business account** puts you on the free plan, which stops when its we
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-The codelab's Gemini API key comes from AI Studio's free tier. The event credits don't cover AI Studio.
+For the codelab's Gemini API key, create it in AI Studio and pick this project when it asks.
